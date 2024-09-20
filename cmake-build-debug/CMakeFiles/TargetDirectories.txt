@@ -1,0 +1,3 @@
+/home/proph37/CLionProjects/C-Labs/cmake-build-debug/CMakeFiles/C_Labs.dir
+/home/proph37/CLionProjects/C-Labs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/proph37/CLionProjects/C-Labs/cmake-build-debug/CMakeFiles/rebuild_cache.dir

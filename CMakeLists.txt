@@ -47,4 +47,5 @@ add_executable(C_Labs main.cpp
         "Lab-4/Number 2/number_2.h"
         "Lab-4/Number 2/filteredArray.cpp"
         "Lab-4/Number 2/testFilterArray.cpp"
+        "Lab-4/Number 2/matrixAvg.cpp"
 )

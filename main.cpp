@@ -1,6 +1,6 @@
 #include "Lab-4/Number 2/number_2.h"
 
 int main() {
-    testFilterArray();
+    matrixAvg();
     return 0;
 }

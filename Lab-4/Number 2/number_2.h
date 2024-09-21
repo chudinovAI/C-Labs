@@ -3,5 +3,6 @@
 
 void filteredArray();
 void testFilterArray();
+void matrixAvg();
 
 #endif

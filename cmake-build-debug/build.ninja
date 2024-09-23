@@ -514,7 +514,217 @@ build CMakeFiles/C_Labs.dir/Lab-4/Number_2/matrixAvg.cpp.o: CXX_COMPILER__C_Labs
   OBJECT_FILE_DIR = CMakeFiles/C_Labs.dir/Lab-4/Number_2
   dyndep = CMakeFiles/C_Labs.dir/CXX.dd
 
-build CMakeFiles/C_Labs.dir/CXX.dd | /home/proph37/CLionProjects/C-Labs/cmake-build-debug/CMakeFiles/C_Labs.dir/CXXModules.json CMakeFiles/C_Labs.dir/main.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-1/Number_1/number_1.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-1/Number_2/number_2.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-1/Number_3/number_3.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_a_lab2.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_b_lab2.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_c_lab2.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_d_lab2.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_2/cars.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_2/hero_direction.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_2/speed.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_3/dayOfWeek.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_3/season.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_3/daysCount.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_3/mass.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_4/bricks.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_5/circle.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_a_lab3.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_b_lab3.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_c_lab3.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_d_lab3.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_2/bacteria.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_2/bank.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_2/fish.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_2/salon.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_3/circle_coordinates.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_4/game.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-4/Number_1/sumElements.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-4/Number_2/filteredArray.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-4/Number_2/testFilterArray.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-4/Number_2/matrixAvg.cpp.o.modmap: CXX_DYNDEP__C_Labs_Debug CMakeFiles/C_Labs.dir/main.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-1/Number_1/number_1.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-1/Number_2/number_2.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-1/Number_3/number_3.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_a_lab2.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_b_lab2.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_c_lab2.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_d_lab2.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_2/cars.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_2/hero_direction.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_2/speed.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_3/dayOfWeek.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_3/season.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_3/daysCount.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_3/mass.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_4/bricks.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_5/circle.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_a_lab3.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_b_lab3.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_c_lab3.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_d_lab3.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_2/bacteria.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_2/bank.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_2/fish.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_2/salon.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_3/circle_coordinates.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_4/game.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-4/Number_1/sumElements.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-4/Number_2/filteredArray.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-4/Number_2/testFilterArray.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-4/Number_2/matrixAvg.cpp.o.ddi | /home/proph37/CLionProjects/C-Labs/cmake-build-debug/CMakeFiles/C_Labs.dir/CXXDependInfo.json
+build CMakeFiles/C_Labs.dir/Lab-4/Number_4/defineSize.cpp.o.ddi: CXX_SCAN__C_Labs_Debug /home/proph37/CLionProjects/C-Labs/Lab-4/Number$ 4/defineSize.cpp || cmake_object_order_depends_target_C_Labs
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_4/defineSize.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_4/defineSize.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_4/defineSize.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_4/defineSize.cpp.o.ddi.i
+
+build CMakeFiles/C_Labs.dir/Lab-4/Number_4/defineSize.cpp.o: CXX_COMPILER__C_Labs_scanned_Debug /home/proph37/CLionProjects/C-Labs/Lab-4/Number$ 4/defineSize.cpp | CMakeFiles/C_Labs.dir/Lab-4/Number_4/defineSize.cpp.o.modmap || cmake_object_order_depends_target_C_Labs CMakeFiles/C_Labs.dir/CXX.dd
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_4/defineSize.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_4/defineSize.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C_Labs.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_Labs.dir/Lab-4/Number_4
+  dyndep = CMakeFiles/C_Labs.dir/CXX.dd
+
+build CMakeFiles/C_Labs.dir/Lab-4/Number_3/vector.cpp.o.ddi: CXX_SCAN__C_Labs_Debug /home/proph37/CLionProjects/C-Labs/Lab-4/Number$ 3/vector.cpp || cmake_object_order_depends_target_C_Labs
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_3/vector.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_3/vector.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_3/vector.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_3/vector.cpp.o.ddi.i
+
+build CMakeFiles/C_Labs.dir/Lab-4/Number_3/vector.cpp.o: CXX_COMPILER__C_Labs_scanned_Debug /home/proph37/CLionProjects/C-Labs/Lab-4/Number$ 3/vector.cpp | CMakeFiles/C_Labs.dir/Lab-4/Number_3/vector.cpp.o.modmap || cmake_object_order_depends_target_C_Labs CMakeFiles/C_Labs.dir/CXX.dd
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_3/vector.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_3/vector.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C_Labs.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_Labs.dir/Lab-4/Number_3
+  dyndep = CMakeFiles/C_Labs.dir/CXX.dd
+
+build CMakeFiles/C_Labs.dir/Lab-4/Number_2/sumMatrixAvg.cpp.o.ddi: CXX_SCAN__C_Labs_Debug /home/proph37/CLionProjects/C-Labs/Lab-4/Number$ 2/sumMatrixAvg.cpp || cmake_object_order_depends_target_C_Labs
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_2/sumMatrixAvg.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_2/sumMatrixAvg.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_2/sumMatrixAvg.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_2/sumMatrixAvg.cpp.o.ddi.i
+
+build CMakeFiles/C_Labs.dir/Lab-4/Number_2/sumMatrixAvg.cpp.o: CXX_COMPILER__C_Labs_scanned_Debug /home/proph37/CLionProjects/C-Labs/Lab-4/Number$ 2/sumMatrixAvg.cpp | CMakeFiles/C_Labs.dir/Lab-4/Number_2/sumMatrixAvg.cpp.o.modmap || cmake_object_order_depends_target_C_Labs CMakeFiles/C_Labs.dir/CXX.dd
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_2/sumMatrixAvg.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_2/sumMatrixAvg.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C_Labs.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_Labs.dir/Lab-4/Number_2
+  dyndep = CMakeFiles/C_Labs.dir/CXX.dd
+
+build CMakeFiles/C_Labs.dir/Lab-4/Number_2/geomAvg.cpp.o.ddi: CXX_SCAN__C_Labs_Debug /home/proph37/CLionProjects/C-Labs/Lab-4/Number$ 2/geomAvg.cpp || cmake_object_order_depends_target_C_Labs
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_2/geomAvg.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_2/geomAvg.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_2/geomAvg.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_2/geomAvg.cpp.o.ddi.i
+
+build CMakeFiles/C_Labs.dir/Lab-4/Number_2/geomAvg.cpp.o: CXX_COMPILER__C_Labs_scanned_Debug /home/proph37/CLionProjects/C-Labs/Lab-4/Number$ 2/geomAvg.cpp | CMakeFiles/C_Labs.dir/Lab-4/Number_2/geomAvg.cpp.o.modmap || cmake_object_order_depends_target_C_Labs CMakeFiles/C_Labs.dir/CXX.dd
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_2/geomAvg.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_2/geomAvg.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C_Labs.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_Labs.dir/Lab-4/Number_2
+  dyndep = CMakeFiles/C_Labs.dir/CXX.dd
+
+build CMakeFiles/C_Labs.dir/Lab-4/Number_5/rangedArray.cpp.o.ddi: CXX_SCAN__C_Labs_Debug /home/proph37/CLionProjects/C-Labs/Lab-4/Number$ 5/rangedArray.cpp || cmake_object_order_depends_target_C_Labs
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_5/rangedArray.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_5/rangedArray.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_5/rangedArray.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_5/rangedArray.cpp.o.ddi.i
+
+build CMakeFiles/C_Labs.dir/Lab-4/Number_5/rangedArray.cpp.o: CXX_COMPILER__C_Labs_scanned_Debug /home/proph37/CLionProjects/C-Labs/Lab-4/Number$ 5/rangedArray.cpp | CMakeFiles/C_Labs.dir/Lab-4/Number_5/rangedArray.cpp.o.modmap || cmake_object_order_depends_target_C_Labs CMakeFiles/C_Labs.dir/CXX.dd
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_5/rangedArray.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/C_Labs.dir/Lab-4/Number_5/rangedArray.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C_Labs.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_Labs.dir/Lab-4/Number_5
+  dyndep = CMakeFiles/C_Labs.dir/CXX.dd
+
+build CMakeFiles/C_Labs.dir/Lab-5/Number_1/sqrtArray.cpp.o.ddi: CXX_SCAN__C_Labs_Debug /home/proph37/CLionProjects/C-Labs/Lab-5/Number$ 1/sqrtArray.cpp || cmake_object_order_depends_target_C_Labs
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_1/sqrtArray.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_1/sqrtArray.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_1/sqrtArray.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_1/sqrtArray.cpp.o.ddi.i
+
+build CMakeFiles/C_Labs.dir/Lab-5/Number_1/sqrtArray.cpp.o: CXX_COMPILER__C_Labs_scanned_Debug /home/proph37/CLionProjects/C-Labs/Lab-5/Number$ 1/sqrtArray.cpp | CMakeFiles/C_Labs.dir/Lab-5/Number_1/sqrtArray.cpp.o.modmap || cmake_object_order_depends_target_C_Labs CMakeFiles/C_Labs.dir/CXX.dd
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_1/sqrtArray.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_1/sqrtArray.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C_Labs.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_Labs.dir/Lab-5/Number_1
+  dyndep = CMakeFiles/C_Labs.dir/CXX.dd
+
+build CMakeFiles/C_Labs.dir/Lab-5/Number_2/integral.cpp.o.ddi: CXX_SCAN__C_Labs_Debug /home/proph37/CLionProjects/C-Labs/Lab-5/Number$ 2/integral.cpp || cmake_object_order_depends_target_C_Labs
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_2/integral.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_2/integral.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_2/integral.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_2/integral.cpp.o.ddi.i
+
+build CMakeFiles/C_Labs.dir/Lab-5/Number_2/integral.cpp.o: CXX_COMPILER__C_Labs_scanned_Debug /home/proph37/CLionProjects/C-Labs/Lab-5/Number$ 2/integral.cpp | CMakeFiles/C_Labs.dir/Lab-5/Number_2/integral.cpp.o.modmap || cmake_object_order_depends_target_C_Labs CMakeFiles/C_Labs.dir/CXX.dd
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_2/integral.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_2/integral.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C_Labs.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_Labs.dir/Lab-5/Number_2
+  dyndep = CMakeFiles/C_Labs.dir/CXX.dd
+
+build CMakeFiles/C_Labs.dir/Lab-5/Number_3/recursion.cpp.o.ddi: CXX_SCAN__C_Labs_Debug /home/proph37/CLionProjects/C-Labs/Lab-5/Number$ 3/recursion.cpp || cmake_object_order_depends_target_C_Labs
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_3/recursion.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_3/recursion.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_3/recursion.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_3/recursion.cpp.o.ddi.i
+
+build CMakeFiles/C_Labs.dir/Lab-5/Number_3/recursion.cpp.o: CXX_COMPILER__C_Labs_scanned_Debug /home/proph37/CLionProjects/C-Labs/Lab-5/Number$ 3/recursion.cpp | CMakeFiles/C_Labs.dir/Lab-5/Number_3/recursion.cpp.o.modmap || cmake_object_order_depends_target_C_Labs CMakeFiles/C_Labs.dir/CXX.dd
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_3/recursion.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_3/recursion.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C_Labs.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_Labs.dir/Lab-5/Number_3
+  dyndep = CMakeFiles/C_Labs.dir/CXX.dd
+
+build CMakeFiles/C_Labs.dir/Lab-5/Number_4/prisma.cpp.o.ddi: CXX_SCAN__C_Labs_Debug /home/proph37/CLionProjects/C-Labs/Lab-5/Number$ 4/prisma.cpp || cmake_object_order_depends_target_C_Labs
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_4/prisma.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_4/prisma.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_4/prisma.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_4/prisma.cpp.o.ddi.i
+
+build CMakeFiles/C_Labs.dir/Lab-5/Number_4/prisma.cpp.o: CXX_COMPILER__C_Labs_scanned_Debug /home/proph37/CLionProjects/C-Labs/Lab-5/Number$ 4/prisma.cpp | CMakeFiles/C_Labs.dir/Lab-5/Number_4/prisma.cpp.o.modmap || cmake_object_order_depends_target_C_Labs CMakeFiles/C_Labs.dir/CXX.dd
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_4/prisma.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/C_Labs.dir/Lab-5/Number_4/prisma.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C_Labs.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_Labs.dir/Lab-5/Number_4
+  dyndep = CMakeFiles/C_Labs.dir/CXX.dd
+
+build CMakeFiles/C_Labs.dir/Lab-6/structures.cpp.o.ddi: CXX_SCAN__C_Labs_Debug /home/proph37/CLionProjects/C-Labs/Lab-6/structures.cpp || cmake_object_order_depends_target_C_Labs
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-6/structures.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/C_Labs.dir/Lab-6/structures.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/C_Labs.dir/Lab-6/structures.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/C_Labs.dir/Lab-6/structures.cpp.o.ddi.i
+
+build CMakeFiles/C_Labs.dir/Lab-6/structures.cpp.o: CXX_COMPILER__C_Labs_scanned_Debug /home/proph37/CLionProjects/C-Labs/Lab-6/structures.cpp | CMakeFiles/C_Labs.dir/Lab-6/structures.cpp.o.modmap || cmake_object_order_depends_target_C_Labs CMakeFiles/C_Labs.dir/CXX.dd
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-6/structures.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/C_Labs.dir/Lab-6/structures.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C_Labs.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_Labs.dir/Lab-6
+  dyndep = CMakeFiles/C_Labs.dir/CXX.dd
+
+build CMakeFiles/C_Labs.dir/Lab-7/Number_1/articles.cpp.o.ddi: CXX_SCAN__C_Labs_Debug /home/proph37/CLionProjects/C-Labs/Lab-7/Number$ 1/articles.cpp || cmake_object_order_depends_target_C_Labs
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_1/articles.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_1/articles.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_1/articles.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_1/articles.cpp.o.ddi.i
+
+build CMakeFiles/C_Labs.dir/Lab-7/Number_1/articles.cpp.o: CXX_COMPILER__C_Labs_scanned_Debug /home/proph37/CLionProjects/C-Labs/Lab-7/Number$ 1/articles.cpp | CMakeFiles/C_Labs.dir/Lab-7/Number_1/articles.cpp.o.modmap || cmake_object_order_depends_target_C_Labs CMakeFiles/C_Labs.dir/CXX.dd
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_1/articles.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_1/articles.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C_Labs.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_Labs.dir/Lab-7/Number_1
+  dyndep = CMakeFiles/C_Labs.dir/CXX.dd
+
+build CMakeFiles/C_Labs.dir/Lab-7/Number_2/dynamicArray.cpp.o.ddi: CXX_SCAN__C_Labs_Debug /home/proph37/CLionProjects/C-Labs/Lab-7/Number$ 2/dynamicArray.cpp || cmake_object_order_depends_target_C_Labs
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_2/dynamicArray.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_2/dynamicArray.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_2/dynamicArray.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_2/dynamicArray.cpp.o.ddi.i
+
+build CMakeFiles/C_Labs.dir/Lab-7/Number_2/dynamicArray.cpp.o: CXX_COMPILER__C_Labs_scanned_Debug /home/proph37/CLionProjects/C-Labs/Lab-7/Number$ 2/dynamicArray.cpp | CMakeFiles/C_Labs.dir/Lab-7/Number_2/dynamicArray.cpp.o.modmap || cmake_object_order_depends_target_C_Labs CMakeFiles/C_Labs.dir/CXX.dd
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_2/dynamicArray.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_2/dynamicArray.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C_Labs.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_Labs.dir/Lab-7/Number_2
+  dyndep = CMakeFiles/C_Labs.dir/CXX.dd
+
+build CMakeFiles/C_Labs.dir/Lab-7/Number_3/matrixMultiplication.cpp.o.ddi: CXX_SCAN__C_Labs_Debug /home/proph37/CLionProjects/C-Labs/Lab-7/Number$ 3/matrixMultiplication.cpp || cmake_object_order_depends_target_C_Labs
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_3/matrixMultiplication.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_3/matrixMultiplication.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_3/matrixMultiplication.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_3/matrixMultiplication.cpp.o.ddi.i
+
+build CMakeFiles/C_Labs.dir/Lab-7/Number_3/matrixMultiplication.cpp.o: CXX_COMPILER__C_Labs_scanned_Debug /home/proph37/CLionProjects/C-Labs/Lab-7/Number$ 3/matrixMultiplication.cpp | CMakeFiles/C_Labs.dir/Lab-7/Number_3/matrixMultiplication.cpp.o.modmap || cmake_object_order_depends_target_C_Labs CMakeFiles/C_Labs.dir/CXX.dd
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_3/matrixMultiplication.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_3/matrixMultiplication.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C_Labs.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_Labs.dir/Lab-7/Number_3
+  dyndep = CMakeFiles/C_Labs.dir/CXX.dd
+
+build CMakeFiles/C_Labs.dir/Lab-7/Number_4/dynamicStructure.cpp.o.ddi: CXX_SCAN__C_Labs_Debug /home/proph37/CLionProjects/C-Labs/Lab-7/Number$ 4/dynamicStructure.cpp || cmake_object_order_depends_target_C_Labs
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_4/dynamicStructure.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_4/dynamicStructure.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_4/dynamicStructure.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_4/dynamicStructure.cpp.o.ddi.i
+
+build CMakeFiles/C_Labs.dir/Lab-7/Number_4/dynamicStructure.cpp.o: CXX_COMPILER__C_Labs_scanned_Debug /home/proph37/CLionProjects/C-Labs/Lab-7/Number$ 4/dynamicStructure.cpp | CMakeFiles/C_Labs.dir/Lab-7/Number_4/dynamicStructure.cpp.o.modmap || cmake_object_order_depends_target_C_Labs CMakeFiles/C_Labs.dir/CXX.dd
+  DEP_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_4/dynamicStructure.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/C_Labs.dir/Lab-7/Number_4/dynamicStructure.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C_Labs.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_Labs.dir/Lab-7/Number_4
+  dyndep = CMakeFiles/C_Labs.dir/CXX.dd
+
+build CMakeFiles/C_Labs.dir/CXX.dd | /home/proph37/CLionProjects/C-Labs/cmake-build-debug/CMakeFiles/C_Labs.dir/CXXModules.json CMakeFiles/C_Labs.dir/main.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-1/Number_1/number_1.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-1/Number_2/number_2.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-1/Number_3/number_3.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_a_lab2.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_b_lab2.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_c_lab2.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_d_lab2.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_2/cars.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_2/hero_direction.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_2/speed.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_3/dayOfWeek.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_3/season.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_3/daysCount.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_3/mass.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_4/bricks.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-2/Number_5/circle.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_a_lab3.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_b_lab3.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_c_lab3.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_d_lab3.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_2/bacteria.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_2/bank.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_2/fish.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_2/salon.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_3/circle_coordinates.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-3/Number_4/game.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-4/Number_1/sumElements.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-4/Number_2/filteredArray.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-4/Number_2/testFilterArray.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-4/Number_2/matrixAvg.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-4/Number_4/defineSize.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-4/Number_3/vector.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-4/Number_2/sumMatrixAvg.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-4/Number_2/geomAvg.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-4/Number_5/rangedArray.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-5/Number_1/sqrtArray.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-5/Number_2/integral.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-5/Number_3/recursion.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-5/Number_4/prisma.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-6/structures.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-7/Number_1/articles.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-7/Number_2/dynamicArray.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-7/Number_3/matrixMultiplication.cpp.o.modmap CMakeFiles/C_Labs.dir/Lab-7/Number_4/dynamicStructure.cpp.o.modmap: CXX_DYNDEP__C_Labs_Debug CMakeFiles/C_Labs.dir/main.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-1/Number_1/number_1.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-1/Number_2/number_2.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-1/Number_3/number_3.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_a_lab2.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_b_lab2.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_c_lab2.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_d_lab2.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_2/cars.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_2/hero_direction.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_2/speed.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_3/dayOfWeek.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_3/season.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_3/daysCount.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_3/mass.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_4/bricks.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-2/Number_5/circle.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_a_lab3.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_b_lab3.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_c_lab3.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_d_lab3.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_2/bacteria.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_2/bank.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_2/fish.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_2/salon.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_3/circle_coordinates.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-3/Number_4/game.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-4/Number_1/sumElements.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-4/Number_2/filteredArray.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-4/Number_2/testFilterArray.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-4/Number_2/matrixAvg.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-4/Number_4/defineSize.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-4/Number_3/vector.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-4/Number_2/sumMatrixAvg.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-4/Number_2/geomAvg.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-4/Number_5/rangedArray.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-5/Number_1/sqrtArray.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-5/Number_2/integral.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-5/Number_3/recursion.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-5/Number_4/prisma.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-6/structures.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-7/Number_1/articles.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-7/Number_2/dynamicArray.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-7/Number_3/matrixMultiplication.cpp.o.ddi CMakeFiles/C_Labs.dir/Lab-7/Number_4/dynamicStructure.cpp.o.ddi | /home/proph37/CLionProjects/C-Labs/cmake-build-debug/CMakeFiles/C_Labs.dir/CXXDependInfo.json
 
 
 # =============================================================================
@@ -524,7 +734,7 @@ build CMakeFiles/C_Labs.dir/CXX.dd | /home/proph37/CLionProjects/C-Labs/cmake-bu
 #############################################
 # Link the executable C_Labs
 
-build C_Labs: CXX_EXECUTABLE_LINKER__C_Labs_Debug CMakeFiles/C_Labs.dir/main.cpp.o CMakeFiles/C_Labs.dir/Lab-1/Number_1/number_1.cpp.o CMakeFiles/C_Labs.dir/Lab-1/Number_2/number_2.cpp.o CMakeFiles/C_Labs.dir/Lab-1/Number_3/number_3.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_a_lab2.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_b_lab2.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_c_lab2.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_d_lab2.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_2/cars.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_2/hero_direction.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_2/speed.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_3/dayOfWeek.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_3/season.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_3/daysCount.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_3/mass.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_4/bricks.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_5/circle.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_a_lab3.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_b_lab3.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_c_lab3.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_d_lab3.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_2/bacteria.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_2/bank.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_2/fish.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_2/salon.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_3/circle_coordinates.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_4/game.cpp.o CMakeFiles/C_Labs.dir/Lab-4/Number_1/sumElements.cpp.o CMakeFiles/C_Labs.dir/Lab-4/Number_2/filteredArray.cpp.o CMakeFiles/C_Labs.dir/Lab-4/Number_2/testFilterArray.cpp.o CMakeFiles/C_Labs.dir/Lab-4/Number_2/matrixAvg.cpp.o
+build C_Labs: CXX_EXECUTABLE_LINKER__C_Labs_Debug CMakeFiles/C_Labs.dir/main.cpp.o CMakeFiles/C_Labs.dir/Lab-1/Number_1/number_1.cpp.o CMakeFiles/C_Labs.dir/Lab-1/Number_2/number_2.cpp.o CMakeFiles/C_Labs.dir/Lab-1/Number_3/number_3.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_a_lab2.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_b_lab2.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_c_lab2.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_1/point_d_lab2.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_2/cars.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_2/hero_direction.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_2/speed.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_3/dayOfWeek.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_3/season.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_3/daysCount.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_3/mass.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_4/bricks.cpp.o CMakeFiles/C_Labs.dir/Lab-2/Number_5/circle.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_a_lab3.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_b_lab3.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_c_lab3.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_1/point_d_lab3.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_2/bacteria.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_2/bank.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_2/fish.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_2/salon.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_3/circle_coordinates.cpp.o CMakeFiles/C_Labs.dir/Lab-3/Number_4/game.cpp.o CMakeFiles/C_Labs.dir/Lab-4/Number_1/sumElements.cpp.o CMakeFiles/C_Labs.dir/Lab-4/Number_2/filteredArray.cpp.o CMakeFiles/C_Labs.dir/Lab-4/Number_2/testFilterArray.cpp.o CMakeFiles/C_Labs.dir/Lab-4/Number_2/matrixAvg.cpp.o CMakeFiles/C_Labs.dir/Lab-4/Number_4/defineSize.cpp.o CMakeFiles/C_Labs.dir/Lab-4/Number_3/vector.cpp.o CMakeFiles/C_Labs.dir/Lab-4/Number_2/sumMatrixAvg.cpp.o CMakeFiles/C_Labs.dir/Lab-4/Number_2/geomAvg.cpp.o CMakeFiles/C_Labs.dir/Lab-4/Number_5/rangedArray.cpp.o CMakeFiles/C_Labs.dir/Lab-5/Number_1/sqrtArray.cpp.o CMakeFiles/C_Labs.dir/Lab-5/Number_2/integral.cpp.o CMakeFiles/C_Labs.dir/Lab-5/Number_3/recursion.cpp.o CMakeFiles/C_Labs.dir/Lab-5/Number_4/prisma.cpp.o CMakeFiles/C_Labs.dir/Lab-6/structures.cpp.o CMakeFiles/C_Labs.dir/Lab-7/Number_1/articles.cpp.o CMakeFiles/C_Labs.dir/Lab-7/Number_2/dynamicArray.cpp.o CMakeFiles/C_Labs.dir/Lab-7/Number_3/matrixMultiplication.cpp.o CMakeFiles/C_Labs.dir/Lab-7/Number_4/dynamicStructure.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/C_Labs.dir
   POST_BUILD = :

@@ -1,6 +1,7 @@
-#include "Lab-4/Number 2/number_2.h"
+#include "Lab-7/Number 3/number_3.h"
+#include "Lab-7/Number 4/number_4.h"
 
 int main() {
-    matrixAvg();
+    dynamicStructure();
     return 0;
 }

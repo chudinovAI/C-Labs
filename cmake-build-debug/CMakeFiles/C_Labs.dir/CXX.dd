@@ -59,3 +59,33 @@ build CMakeFiles/C_Labs.dir/Lab-4/Number_2/filteredArray.cpp.o: dyndep
 
 build CMakeFiles/C_Labs.dir/Lab-4/Number_2/testFilterArray.cpp.o: dyndep
 
+build CMakeFiles/C_Labs.dir/Lab-4/Number_2/matrixAvg.cpp.o: dyndep
+
+build CMakeFiles/C_Labs.dir/Lab-4/Number_4/defineSize.cpp.o: dyndep
+
+build CMakeFiles/C_Labs.dir/Lab-4/Number_3/vector.cpp.o: dyndep
+
+build CMakeFiles/C_Labs.dir/Lab-4/Number_2/sumMatrixAvg.cpp.o: dyndep
+
+build CMakeFiles/C_Labs.dir/Lab-4/Number_2/geomAvg.cpp.o: dyndep
+
+build CMakeFiles/C_Labs.dir/Lab-4/Number_5/rangedArray.cpp.o: dyndep
+
+build CMakeFiles/C_Labs.dir/Lab-5/Number_1/sqrtArray.cpp.o: dyndep
+
+build CMakeFiles/C_Labs.dir/Lab-5/Number_2/integral.cpp.o: dyndep
+
+build CMakeFiles/C_Labs.dir/Lab-5/Number_3/recursion.cpp.o: dyndep
+
+build CMakeFiles/C_Labs.dir/Lab-5/Number_4/prisma.cpp.o: dyndep
+
+build CMakeFiles/C_Labs.dir/Lab-6/structures.cpp.o: dyndep
+
+build CMakeFiles/C_Labs.dir/Lab-7/Number_1/articles.cpp.o: dyndep
+
+build CMakeFiles/C_Labs.dir/Lab-7/Number_2/dynamicArray.cpp.o: dyndep
+
+build CMakeFiles/C_Labs.dir/Lab-7/Number_3/matrixMultiplication.cpp.o: dyndep
+
+build CMakeFiles/C_Labs.dir/Lab-7/Number_4/dynamicStructure.cpp.o: dyndep
+

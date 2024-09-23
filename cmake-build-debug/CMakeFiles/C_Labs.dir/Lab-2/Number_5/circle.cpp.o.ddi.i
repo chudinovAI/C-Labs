@@ -54012,14 +54012,17 @@ void circle(){
     std::cin >> part;
     std::cout << "Введите острый угол в градусах: ";
     std::cin >> degree;
+
     const double radiant = degree*
-# 14 "/home/proph37/CLionProjects/C-Labs/Lab-2/Number 5/circle.cpp" 3 4
+# 15 "/home/proph37/CLionProjects/C-Labs/Lab-2/Number 5/circle.cpp" 3 4
                                  3.14159265358979323846
-# 14 "/home/proph37/CLionProjects/C-Labs/Lab-2/Number 5/circle.cpp"
+# 15 "/home/proph37/CLionProjects/C-Labs/Lab-2/Number 5/circle.cpp"
                                      /180;
     const double diagonal1 = part*sqrt(2 + 2*cos(radiant));
     const double diagonal2 = part*sqrt(2 - 2*cos(radiant));
-    if (2*radius <= std::min(diagonal1, diagonal2))
+    const double height = diagonal1*diagonal2/(2*part);
+
+    if (2*radius <= height)
     {
         std::cout << "Шар может пройти через ромбообразное отверстие" << std::endl;
     }

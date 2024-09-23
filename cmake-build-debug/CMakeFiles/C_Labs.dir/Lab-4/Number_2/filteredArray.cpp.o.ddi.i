@@ -43316,6 +43316,9 @@ namespace std __attribute__ ((__visibility__ ("default")))
 # 4 "/home/proph37/CLionProjects/C-Labs/Lab-4/Number 2/number_2.h"
 void filteredArray();
 void testFilterArray();
+void matrixAvg();
+void geomAvg();
+void sumMatrixAvg();
 # 3 "/home/proph37/CLionProjects/C-Labs/Lab-4/Number 2/filteredArray.cpp" 2
 double filterBelowThreshold(const int arr[], int size, int threshold){
     int count = 0;

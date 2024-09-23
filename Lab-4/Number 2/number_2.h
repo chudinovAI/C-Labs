@@ -4,5 +4,7 @@
 void filteredArray();
 void testFilterArray();
 void matrixAvg();
+void geomAvg();
+void sumMatrixAvg();
 
 #endif

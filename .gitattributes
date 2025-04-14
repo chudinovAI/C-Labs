@@ -1,0 +1,3 @@
+*.i linguist-language=C++
+*.swg linguist-language=C++
+*_wrap.cxx linguist-generated
